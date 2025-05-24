@@ -8,7 +8,7 @@
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
           <!-- 使用 Jekyll 模板语言动态渲染菜单项 ，修改导航在 _data/navigation.yml 中改就好 写入的url 是相对于网站根目录的-->
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{domain}}{{site.baseurl}}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{domain}}{{site.baseurl}}/{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
