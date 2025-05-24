@@ -28,8 +28,8 @@ Please feel free to contact me at resecslayder@gmail.com if you would like to co
 
 
 # 🏆 Honors and Awards
-- *2022.09*, National Scholarship (top 1%, central South University)
-- *2023.09*, University Special Prize Scholarship (top 1%, central South University)
+- *2022.09*, National Scholarship (top 1%, Central South University)
+- *2023.09*, University Special Prize Scholarship (top 1%, Central South University)
 - *2023.09*, National Second Prize, National Mathematical Modeling Competition (top 2%, national level)
 - *2024.05*, National First Prize，Lanqiao Cup Artificial Intelligence Challenge (national level)
 - *2024.07*, National Second Prize, China Undergraduate Cybersecurity Competition (national level)
