@@ -3,6 +3,9 @@ title                    : "Zenghui Yang"
 description              : "homepage of Zenghui Yang"
 repository               : "resecube/resecube.github.io"
 google_scholar_stats_use_cdn : false
+domain: resecube.github.io/homepage
+url                      : "https://resecube.github.io/homepage"
+baseurl                  : "/homepage"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
