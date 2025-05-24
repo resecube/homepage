@@ -1,0 +1,18 @@
+<!-- 响应式导航栏的 HTML 结构 -->
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
+          <!-- 使用 Jekyll 模板语言动态渲染菜单项 ，修改导航在 _data/navigation.yml 中改就好 写入的url 是相对于网站根目录的-->
+          {% for link in site.data.navigation.main %}
+            <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
+          {% endfor %}
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
