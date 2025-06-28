@@ -18,14 +18,14 @@ redirect_from:
 # 🍃 About Me
 <span class='anchor' id='about-me'></span>
 
-## hi, I'm Resecslayder!
----
+<img src='../images/apple-touch-icon.png'></img>
 
 - I am a graduate student at the School of Software, Tsinghua University, Beijing, China. I received my bacherlor's degree in computer science and Technology from the School of Computer Science and Engineering, Central South University, Changsha, China. My graduation project was completed under the joint supervision of Prof. Zheng Yang from Tsinghua University and Prof. Shigeng Zhang from Central South University.
 
 - My research interests include embodied navigation, wireless sensing, and deep learning. I am now preparing to pursue graduate studies in these areas. I have a strong academic foundation in computer science and a growing interest in practical applications of AI and sensing in real-world environments. Outside of academics, I enjoy endurance running, table tennis, and badminton. I also find relaxation in listening to light instrumental music.
 
 - Please feel free to contact me at resecslayder@gmail.com if you would like to connect.
+
 
 # 🔥 News
 - *2025.06*, Graduated from Central South University with a Bachelor's degree in Computer Science and Technology; awarded the title of Excellent Thesis by the School.
