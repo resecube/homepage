@@ -24,7 +24,9 @@ My research interests include embodied navigation, wireless sensing, and deep le
 
 Please feel free to contact me at resecslayder@gmail.com if you would like to connect.
 
-
+# 🔥 News
+- *2025.06*, Graduated from Central South University with a Bachelor's degree in Computer Science and Technology; awarded the title of Excellent Thesis by the School.
+- *2025.04*, Submitted the first paper in the field of embodied navigation to ACM Multimedia.
 
 # 🏆 Honors and Awards
 - *2022.09*, National Scholarship (top 1%, Central South University)
