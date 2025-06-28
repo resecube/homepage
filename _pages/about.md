@@ -22,7 +22,9 @@ redirect_from:
 
 [my homepage](https://resecube.github.io)
 
-<video src="images/99bd42de-87c8-4b1b-959c-f033de76b94d.mp4" controls="controls" width="600" height="240" style="margin: 0 auto;"></video>
+<div style="text-align:center">
+<video src="images/99bd42de-87c8-4b1b-959c-f033de76b94d.mp4" controls="controls" width="600" height="240" ></video>
+</div>
 
 - I am a graduate student at the School of Software, Tsinghua University, Beijing, China. I received my bacherlor's degree in computer science and Technology from the School of Computer Science and Engineering, Central South University, Changsha, China. My graduation project was completed under the joint supervision of Prof. Zheng Yang from Tsinghua University and Prof. Shigeng Zhang from Central South University.
 
