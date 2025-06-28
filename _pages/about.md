@@ -22,11 +22,7 @@ redirect_from:
 
 [my homepage](https://resecube.github.io)
 
-<video src="images/99bd42de-87c8-4b1b-959c-f033de76b94d.mp4" controls="controls" width="320" height="240"></video>
-
---- 
-
-<iframe src="https://www.bilibili.com/video/BV1KzTszEEFE/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=b19e0d9a8fc02f14e7f3cbadf24cc4ca" scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true" width="600" height="800"> </iframe>
+<video src="images/99bd42de-87c8-4b1b-959c-f033de76b94d.mp4" controls="controls" width="600" height="240" style="margin: 0 auto;"></video>
 
 - I am a graduate student at the School of Software, Tsinghua University, Beijing, China. I received my bacherlor's degree in computer science and Technology from the School of Computer Science and Engineering, Central South University, Changsha, China. My graduation project was completed under the joint supervision of Prof. Zheng Yang from Tsinghua University and Prof. Shigeng Zhang from Central South University.
 
