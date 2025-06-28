@@ -38,6 +38,5 @@ Please feel free to contact me at resecslayder@gmail.com if you would like to co
 
 
 # 🎓 Educations
-- *2021.06 - 2025.06*, School of Computer Science, Central South University, Changsha, China.
 - *2025.09 - 2029.06 (now)*,  School of Software, Tsinghua University, Beijing, China.
-
+- *2021.06 - 2025.06*, School of Computer Science, Central South University, Changsha, China.
