@@ -38,5 +38,9 @@ Please feel free to contact me at resecslayder@gmail.com if you would like to co
 
 
 # 🎓 Educations
-- *2025.09 - 2029.06 (now)*,  School of Software, Tsinghua University, Beijing, China.
+- *2025.09 - 2029.06 (now)*, School of Software, Tsinghua University, Beijing, China.
 - *2021.06 - 2025.06*, School of Computer Science, Central South University, Changsha, China.
+
+
+# 💻 Internships
+- *2023.08 - 2024.08*, Completed the first research internship on diffusion models and model watermarking under the supervision of Associate Professor Xiyao Liu.
